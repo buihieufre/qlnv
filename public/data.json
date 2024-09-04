@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": "2",
+      "name": "Thảo Vy",
+      "age": 28,
+      "salary": 12000000,
+      "address": "Đà Nẵng"
+    },
+    {
+      "id": "4",
+      "name": "Ngọc Hân",
+      "age": 26,
+      "salary": 18000000,
+      "address": "Cần Thơ"
+    },
+    {
+      "id": "5",
+      "name": "Phương Linh",
+      "age": 24,
+      "salary": 14000000,
+      "address": "Hải Phòng"
+    },
+    {
+      "id": "6",
+      "name": "Trọng Nhân",
+      "age": 32,
+      "salary": 16000000,
+      "address": "Nha Trang"
+    },
+    {
+      "id": "7",
+      "name": "Hồng Sơn",
+      "age": 29,
+      "salary": 17000000,
+      "address": "Vũng Tàu"
+    },
+    {
+      "id": "8",
+      "name": "Lan Chi",
+      "age": 27,
+      "salary": 13000000,
+      "address": "Biên Hòa"
+    }
+  ]
+}
